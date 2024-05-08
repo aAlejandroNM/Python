@@ -1,0 +1,19 @@
+{
+    "eventos":[
+        {
+            "nombre": "Convivencia",
+            "locacion": "Parque",
+            "dia": 5,
+            "realizado": true
+        }
+    ],
+    "participantes": [
+        {
+            "nombre": "juan",
+            "documento":11659876,
+            "edad":19,
+            "cargo":"gerente",
+            "pago": false
+        }
+    ]
+}
