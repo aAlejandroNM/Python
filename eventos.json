@@ -5,6 +5,16 @@
             "locacion": "Parque",
             "dia": 5,
             "realizado": true
+        },
+        {
+            "nombre": "matrimonio",
+            "locacion": "bucaramanga",
+            "dia": 21
+        },
+        {
+            "nombre": "prueba",
+            "locacion": "pruba2",
+            "dia": 12
         }
     ],
     "participantes": [
