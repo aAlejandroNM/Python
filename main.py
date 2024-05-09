@@ -37,7 +37,7 @@ while True:
     elif opc == 4:
         datos == registrar_eventos(datos)
     elif opc == 5:
-        print("opcion 5")
+        datos = modificar_evento(datos)
     elif opc == 6:
         print("opcion 6")
     elif opc == 7:
@@ -51,5 +51,4 @@ while True:
     elif opc == 11:
         print("Salió!!")
         break
-
-guardar_datos(datos, RUTA_BASE_DE_DATOS)
+    guardar_datos(datos, RUTA_BASE_DE_DATOS)
