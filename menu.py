@@ -6,7 +6,7 @@ def menu_principal():
     print("3. para pagar la entrada de un participante")
     print("4. para registrar un evento")
     print("5. para modificar un evento")
-    print("6. para marcar un evento como finalizado")
+    print("6. para marcar un evento como finalizado y/o eliminar")
     print("7. para saber cuales participantes no han pagado")
     print("8. para saber cuantos participantes no han pagado")
     print("9. para conocer eventos del mes")

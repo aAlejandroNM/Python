@@ -35,17 +35,17 @@ while True:
     elif opc == 3:
         datos = pagar_participante(datos)
     elif opc == 4:
-        datos == registrar_eventos(datos)
+        datos = registrar_eventos(datos)
     elif opc == 5:
         datos = modificar_evento(datos)
     elif opc == 6:
-        print("opcion 6")
+        datos = finalizar_evento(datos)
     elif opc == 7:
         cuales_participantes_sin_pagar(datos)
     elif opc == 8:
         cuantos_participantes_sin_pagar(datos)
     elif opc == 9:
-        print("opcion 9")
+        eventos_mes(datos)
     elif opc == 10:
         participantes_del_mes(datos)
     elif opc == 11:

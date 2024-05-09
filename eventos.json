@@ -9,12 +9,20 @@
         {
             "nombre": "matrimonio",
             "locacion": "bucaramanga",
+            "realizado": false,
             "dia": 21
         },
         {
-            "nombre": "prueba",
-            "locacion": "pruba2",
-            "dia": 12
+            "nombre": "dfd",
+            "locacion": "otra",
+            "dia": 30,
+            "realizado": true
+        },
+        {
+            "nombre": "nuevaprueba",
+            "locacion": "nuevalocacion",
+            "dia": 34,
+            "realizado": true
         }
     ],
     "participantes": [
